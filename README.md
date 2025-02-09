@@ -6,16 +6,20 @@
 
     - Uses JSX to return an \<h1\> element displaying a greeting message (e.g., "Hello, Welcome to React!").
     - Includes a paragraph \<p\> with an inline style applied using JSX.
+        - Paragraph holds digital clock and is dodgerblue
     - Uses JavaScript expressions inside JSX (e.g., displaying the current date dynamically).
-        - (Made DigitalClock.jsx file to dynamically display Date and Time)   
+        - (Made DigitalClock function to dynamically display Date and Time)   
 
 
 ### Task 2: Create a Class Component and Use JSX (5 Points)
 - Create a class-based component named UserInfo that:
 
     - Uses JSX to return a \<div\> containing a user's name and profession.
+        - UserDetails Class
     - Defines state inside the component to hold user details.
+        - UserDetails Class
     - Displays a random number inside JSX (e.g., "Your lucky number is 7").
+        - UserDetails Class
 
 
 ### Task 3: Dynamic Content Using JSX and React Components (5 Points)
