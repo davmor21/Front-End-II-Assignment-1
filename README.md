@@ -15,24 +15,29 @@
 - Create a class-based component named UserInfo that:
 
     - Uses JSX to return a \<div\> containing a user's name and profession.
-        - UserDetails Class
+        - UserInfo.jsx
     - Defines state inside the component to hold user details.
-        - UserDetails Class
+        - UserInfo.jsx
     - Displays a random number inside JSX (e.g., "Your lucky number is 7").
-        - UserDetails Class
+        - UserInfo.jsx
 
 
 ### Task 3: Dynamic Content Using JSX and React Components (5 Points)
 - Create an array of tasks inside the App component.
+    - TaskCompenent.jsx
 - Write a function getRandomTask() that returns a random task from the list.
+    - TaskCompenent.jsx
 - Display a random task inside a \<h3\> using JSX.
+    - TaskCompenent.jsx
 
 
 ### Task 4: Parent and Child Components Using JSX (5 Points)
 - Modify App.js to:
 
-- Import the Greeting, UserInfo, and TaskComponent components.
-- Render them inside a single \<div\> (following JSX rules).
+    - Import the Greeting, UserInfo, and TaskComponent components.
+        - This is done using separate JSX files imported into the App.jsx file
+    - Render them inside a single \<div\> (following JSX rules).
+        - This is done in main.jsx    
 
 
 
@@ -41,4 +46,5 @@
 [Vite](https://vite.dev/)
 [React](https://react.dev/)
 [W3 Schools - React](https://www.w3schools.com/react/default.asp)
+[W3 Schools - JavaScript](https://www.w3schools.com/js/default.asp)
 [How to Make a Digital Clock Using React](https://www.educative.io/answers/how-to-create-a-dynamic-digital-clock-in-react)
