@@ -7,6 +7,7 @@
     - Uses JSX to return an \<h1\> element displaying a greeting message (e.g., "Hello, Welcome to React!").
     - Includes a paragraph \<p\> with an inline style applied using JSX.
     - Uses JavaScript expressions inside JSX (e.g., displaying the current date dynamically).
+        - (Made DigitalClock.jsx file to dynamically display Date and Time)   
 
 
 ### Task 2: Create a Class Component and Use JSX (5 Points)
@@ -36,3 +37,4 @@
 [Vite](https://vite.dev/)
 [React](https://react.dev/)
 [W3 Schools - React](https://www.w3schools.com/react/default.asp)
+[How to Make a Digital Clock Using React](https://www.educative.io/answers/how-to-create-a-dynamic-digital-clock-in-react)
